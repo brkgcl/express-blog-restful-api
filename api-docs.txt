@@ -1,0 +1,6 @@
+// post 
+api/user -> bütün kullanıcılar
+api/user/:userName -> userName e sahip kullanıcı
+
+api/post -> bütün postlar
+api/post/:url -> url e sahip postlar (url titlenın sitringfy ile '-' işartei ile birleştirilmiş hali)
